@@ -35,7 +35,7 @@ Other settings
 
 How to run?
 
-1. Connect the testing android mobile (developer mode is on)
+1. Connect the android mobile (developer mode is ON)
 2. Start the Appium server
 3. Update the fields like device_udid, app_local_path, web_driver and ss_folder_path as mentioned above
 4. Run the main.py 
